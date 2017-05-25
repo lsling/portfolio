@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: Bloc Jams
+thumbnail-path: "img/blocjams.png"
+short-description: A digital music player like Spotify built with AngularJS.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
