@@ -26,6 +26,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0.67em 0;
   a {
     color: $text-color;
+    font-weight: 400;
   }
 }
 h1 {
@@ -33,6 +34,7 @@ h1 {
 }
 h2 {
   font-size: 2em;
+  font-weight: 200;
 }
 h3 {
   font-size: 1.5em;
