@@ -11,17 +11,17 @@ short-description: A digital music player like Spotify built with AngularJS.
 
 ## Explanation
 
-Bloc Jams is a project built into the Bloc Wed Developer Track curriculum. This project was my first introduction to vanilla Javascript, jQuery, and AngularJS. 
+Bloc Jams is a project built into the Bloc Web Developer Track curriculum. This project was my first introduction to vanilla Javascript, jQuery, and AngularJS. 
 
 ## Problem
 
-I originally built Bloc Jams using vanilla Javscript then refactored into jQuery. The final step was to fully refactor it into AngularJS. 
+I originally built Bloc Jams using vanilla Javscript then refactored into jQuery. The final step was to fully refactor it into AngularJS.
 
 ## Solution
 
-When I was building the application initially in Javascript and jQuery, I was given pretty detailed instructions in order to create it. While refactoring into AngularJS, I was given less direction which forced me to dive into learning Angular. 
+When I was building the application initially in Javascript and jQuery, I was given pretty detailed instructions in order to create it. While refactoring into AngularJS, I was given less direction which forced me to dive into learning Angular.
 
-I started the refactoring process with the templates to reduce redundancy in the HTML files and moved over all CSS files since they were already ready to go from the previous jQuery version. 
+I started the refactoring process with the templates to reduce redundancy in the HTML files and moved over all CSS files since they were already ready to go from the previous jQuery version.
 
 Next, I refactored jQuery functions to use Angular directives for the next, previous and play/pause buttons and created controllers for landing, album and collection views. I was also introduced to Angular's data binding and services here.
 
@@ -29,11 +29,11 @@ Next, I refactored jQuery functions to use Angular directives for the next, prev
 ![]({{ site.baseurl }}/img/blocjamsalbum.png)
 
 
-Properly written documentation on attributes and functions was covered which I found very helpful. It forced me to fully understand what the attribute or function was doing. 
+Properly written documentation on attributes and functions was covered which I found very helpful. It forced me to fully understand what the attribute or function was doing.
 
 ## Results
 
-In order to test my solutions, I utilized node.js to test my progress and get visual confirmation of my solutions. 
+In order to test my solutions, I utilized node.js to test my progress and get visual confirmation of my solutions.
 
 ## Conclusion
 
